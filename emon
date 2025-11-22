@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Emon Hossain - Portfolio</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+    }
+    header {
+      background: #1e90ff;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 40px;
+    }
+    header p {
+      margin: 5px 0 0;
+      font-size: 18px;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 900px;
+      margin: auto;
+      background: #fff;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #1e90ff;
+    }
+    .skills span {
+      display: inline-block;
+      background: #1e90ff;
+      color: #fff;
+      padding: 8px 15px;
+      border-radius: 20px;
+      margin: 5px;
+      font-size: 14px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #1e90ff;
+      color: #fff;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Emon Hossain</h1>
+  <p>Network Technician | IT Support | Tech Enthusiast</p>
+</header>
+
+<div class="section">
+  <h2>About Me</h2>
+  <p>Hello! I am Emon Hossain, a passionate and dedicated Network Technician from Bangladesh. I love solving problems, configuring systems, and working with technology.</p>
+</div>
+
+<div class="section">
+  <h2>Skills</h2>
+  <div class="skills">
+    <span>Network Configuration</span>
+    <span>IP PBX</span>
+    <span>VoIP</span>
+    <span>IT Support</span>
+    <span>Router Setup</span>
+    <span>Troubleshooting</span>
+    <span>Linux Basics</span>
+  </div>
+</div>
+
+<div class="section">
+  <h2>Projects</h2>
+  <p>• IP PBX Configuration for Business<br>
+     • Network Setup for Office<br>
+     • Troubleshooting & IT Support Tasks<br>
+     • Small Tools for IT Automation
+  </p>
+</div>
+
+<div class="section">
+  <h2>Contact</h2>
+  <p>Email: emonsprk@gmail.com<br>
+     Phone: 01722-693325<br>
+     Facebook: facebook.com/emon3325
+  </p>
+</div>
+
+<footer>
+  © 2025 Emon Hossain. All rights reserved.
+</footer>
+
+</body>
+</html>
+
